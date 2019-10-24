@@ -1,0 +1,11 @@
+#app{
+    width:1024px;
+    margin: 0 auto; 
+}
+.add-btn{
+    margin-top: 20px;
+    width: 100%;
+}
+.body{
+    margin-top:20px;
+}
